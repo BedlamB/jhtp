@@ -13,6 +13,7 @@ public class TestDraw {
         application.add(drawPanel);
         application.setSize(600, 600);
         application.setVisible(true);
+
     }
 
 }
